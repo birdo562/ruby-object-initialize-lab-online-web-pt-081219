@@ -1,3 +1,3 @@
 class Dog
-  def initialize(info)
-    initialize.each do 
+  def initialize(name, breed = "Mutt")
+    
